@@ -1,4 +1,9 @@
+apply plugin: 'application'
 apply plugin: 'kotlin'
+
+version = '1.0.0'
+group = 'com.github.smarroufin'
+application.mainClassName = 'com.github.smarroufin.AppKt'
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
