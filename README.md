@@ -1,4 +1,4 @@
-# Skeleton app with Kotlin and Gradle
+# Template for Kotlin project using Gradle
 
 ## Upgrade versions
 
